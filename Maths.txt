@@ -1,1 +1,3 @@
 Welcome to maths subject.
+Start with addition.
+Then subtraction.
